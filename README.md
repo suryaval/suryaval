@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... he/him
 - ⚡  Life fact: ... Live, Laugh, Love
 
+### Articles & Blogs
+
+[![Surya Vallabhaneni on Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=surya.vallabhaneni2)](https://medium.com/@surya.vallabhaneni2)
